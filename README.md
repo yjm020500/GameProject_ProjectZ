@@ -3,7 +3,7 @@
 대한상공회의소 AI시스템반도체설계과정 ARM Architecture 수업에서 진행한 프로젝트입니다.  
 두 개의 각각 다른 역할을 하는 STM32 보드를 이용하였으며, 두 보드간 UART 통신으로 데이터를 주고 받았습니다.  
 
-자세한 내용은 project_docs의 [게임설명서](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EA%B2%8C%EC%9E%84%EC%84%A4%EB%AA%85%EC%84%9C_v1.pdf), [발표자료](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)와 Videos의 Demo_Video를 확인해주세요.  
+자세한 내용은 project_docs의 [게임설명서](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EA%B2%8C%EC%9E%84%EC%84%A4%EB%AA%85%EC%84%9C_v1.pdf), [발표자료](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)와 Videos의 Demo_Video, Presentation_Video를 확인해주세요.  
 
 <br>
 
