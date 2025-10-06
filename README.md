@@ -36,10 +36,13 @@
 
 ### 각 Device FSM
 1. Main-Device<br>
+  <div align="center">
    <img width="733" height="495" alt="image" src="https://github.com/user-attachments/assets/9269226a-3a40-4491-8643-35b89e9a1c36" />
+  </div>
 2. Gear-Device
-  <img width="763" height="491" alt="image" src="https://github.com/user-attachments/assets/554149b6-1e62-4bbe-ab9c-d08faf5c79ee" />
-
+   <div align="center">
+    <img width="763" height="491" alt="image" src="https://github.com/user-attachments/assets/554149b6-1e62-4bbe-ab9c-d08faf5c79ee" />
+  </div>
 
 <br>
 
