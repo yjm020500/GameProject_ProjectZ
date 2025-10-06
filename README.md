@@ -34,6 +34,13 @@
   - 미니게임은 일정 시간 내에 화면의 화살표 방향대로 JogKey를 움직여야 하며,   
     실패시에도 아이템 박스가 사라지지 않습니다.
 
+### 각 Device FSM
+1. Main-Device<br>
+   <img width="733" height="495" alt="image" src="https://github.com/user-attachments/assets/9269226a-3a40-4491-8643-35b89e9a1c36" />
+2. Gear-Device
+  <img width="763" height="491" alt="image" src="https://github.com/user-attachments/assets/554149b6-1e62-4bbe-ab9c-d08faf5c79ee" />
+
+
 <br>
 
 ## 추가 기능
