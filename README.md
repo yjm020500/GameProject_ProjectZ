@@ -6,7 +6,7 @@
 - 타이머, GPIO, 인터럽트 등 데이터시트를 참고하여 필요한 기능들의 레지스터 비트를 직접 활성화하고 활용하였습니다.
 - GCC 컴파일러를 사용하였습니다.
 
-자세한 내용은 project_docs의 [게임설명서](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EA%B2%8C%EC%9E%84%EC%84%A4%EB%AA%85%EC%84%9C_v1.pdf), [발표자료](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)와 [Demo_Video](https://youtu.be/zRcErwAnme8), [Presentation_Video](https://youtu.be/sMCxMvsxzTI)를 확인해주세요.  
+- 자세한 내용은 project_docs의 [게임설명서](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EA%B2%8C%EC%9E%84%EC%84%A4%EB%AA%85%EC%84%9C_v1.pdf), [발표자료](https://github.com/yjm020500/GameProject_ProjectZ/blob/main/project_docs/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)와 [Demo_Video](https://youtu.be/zRcErwAnme8), [Presentation_Video](https://youtu.be/sMCxMvsxzTI)를 확인해주세요.  
 
 <br>
 
