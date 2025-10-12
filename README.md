@@ -17,7 +17,7 @@
   <img width="1094" height="400" alt="image" src="https://github.com/user-attachments/assets/1c233831-d577-4426-96ce-31fc282e8614" />
 </div>
 - 두 STM32보드를 UART2 연결하고(UART1은 각각 computer연결), main_device역할을 하는 보드에  <br>
-- 체력 표시용 M3-EXT(SC16IS752)를 SPI 통신으로 연결합니다.  
+   체력 표시용 M3-EXT(SC16IS752)를 SPI 통신으로 연결합니다.  
 
 <br>
 
