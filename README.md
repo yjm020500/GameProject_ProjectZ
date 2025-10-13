@@ -12,6 +12,13 @@
 
 <br>
 
+## 개발 환경
+- HW: STM32(Cortex-M3), M3-EXT(SC16IS752)
+- 언어: C
+- Tool: GCC
+
+  <br>
+
 ## Board Setup
 <div align="center">
   <img width="1094" height="400" alt="image" src="https://github.com/user-attachments/assets/1c233831-d577-4426-96ce-31fc282e8614" />
